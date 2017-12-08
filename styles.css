@@ -1,0 +1,8 @@
+.secret:hover + .secretdiv {
+    display: block;
+}
+
+.secretdiv {
+    display: none;
+    margin-top:20px;
+}
